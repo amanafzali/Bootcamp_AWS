@@ -31,7 +31,7 @@ def validate_data(age, investment_amount, intent_request):
             return build_validation_result(
                 False,
                 'age',
-                'Opps! you are already retired {first_name}',
+                'Opps! you are already retired',
             )
         if age < 0:
             return build_validation_result(
