@@ -4,7 +4,7 @@
 
 # Instructions
 
-In this assignment, I used Amazon Web Services skills that I learned in the past week with my already  Python experience, to create a bot that will recommend an investment portfolio for a retirement plan. Amazon Lex, Amazon Lambda and lambda_function.py were used to accomplish the following main tasks.
+In this project, I used Amazon Web Services skills that I learned in the past week with my already  Python experience, to create a bot that will recommend an investment portfolio for a retirement plan. Amazon Lex, Amazon Lambda and lambda_function.py were used to accomplish the following main tasks.
 
 
 ## Stepts for creating an Advisor bot
